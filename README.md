@@ -15,6 +15,6 @@ cd MNSContect
 
 chmod 777 *
 
-bash Upgrade.sh
+bash connect.sh
 
 Thank You For Using MNSContect.
